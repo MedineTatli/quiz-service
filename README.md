@@ -12,8 +12,8 @@ H2 veritabanına aşina olmadığım için kolaylık sağlaması amacıyla MySQL
 
 
 # quiz-service
+![data_structure](https://github.com/MedineTatli/quiz-service/assets/39694313/3cddee96-204c-48d8-93ff-5e9416615089)
 
-![data_structure](https://github.com/MedineTatli/quiz-service/assets/39694313/08e30e0a-11b1-429f-b5ff-5db53faf5228)
 
 Örnek quiz ekleme curl -> 
 
