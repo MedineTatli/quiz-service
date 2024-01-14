@@ -1,5 +1,5 @@
 Proje Tanımı:
-Proje, akış quiz bilgilerinin oluşturulmasıyla başlar. Bu, quiz bilgisine erişebilecek ve çözebilecek öğrenci bilgilerini, öğrencinin sınav bilgilerini ve değerlendirme sonuçlarını içerir.
+Proje akışı quiz bilgilerinin oluşturulmasıyla başlar. Bu, quiz bilgisine erişebilecek ve çözebilecek öğrenci bilgilerini, öğrencinin sınav bilgilerini ve değerlendirme sonuçlarını içerir.
 Quiz tablosunda genel quiz bilgileri, question tablosunda quiz sorularının detayları, selection tablosunda ise bu quiz'e ait soruların seçenekleri tutulmaktadır. Exam tablosunda ise çözülen sorular ve öğrencinin başarı durumu işlenir.
 
 Senaryo:
