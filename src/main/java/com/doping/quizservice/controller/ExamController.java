@@ -17,7 +17,7 @@ public class ExamController {
     private final ExamResultService examResultService;
 
     @PostMapping
-    public ResultDto getStudentsExam(@RequestBody ResultRequest resultRequest) {
+    public ResultDto createStudentsExam(@RequestBody ResultRequest resultRequest) {
         return examResultService.createResult(resultRequest);
     }
     @GetMapping
