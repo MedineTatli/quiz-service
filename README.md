@@ -7,13 +7,9 @@ Quiz-controller servisi, quiz tablosuna insert işlemi gerçekleştiren bir serv
 Student-controller servisi ile öğrenci bilgileri girilir.
 Yukarıdaki işlemler tamamlandıktan sonra, sınava girecek öğrenci ve sınav bilgileri exam-controller servisi ile işlenir. Öğrenci numarası ve quiz numarası bilgileri ile sorular ve cevaplar girilir. Değerlendirme sonrası öğrencinin soru sayısına göre doğru sayısı oranı hesaplanır ve başarı yüzdesi exam tablosunda saklanır. Aynı servis aynı zamanda öğrenci numarası ile öğrencinin girdiği sınavlar ve başarı oranları listelenebilir.
 
-Ek Bilgiler:
-H2 veritabanına aşina olmadığım için kolaylık sağlaması amacıyla MySQL veritabanı kullandım.
-
 veritabanı şeması aşağıdaki gibidir.
 # quiz-service
 ![data_structure](https://github.com/MedineTatli/quiz-service/assets/39694313/3cddee96-204c-48d8-93ff-5e9416615089)
-
 
 Sample add student curl ->  
 
